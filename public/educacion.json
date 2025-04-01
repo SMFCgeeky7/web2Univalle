@@ -1,0 +1,22 @@
+{
+    "educacion": [
+      {
+        "titulo": "Master en manejo estratégico de ingeniería de software",
+        "institucion": "Universidad Gabriel Rene Moreno, Santa Cruz - Bolivia",
+        "tipo": "Educación Superior",
+        "periodo": {"inicio": "10/2020", "fin": "En proceso"}
+      },
+      {
+        "titulo": "Titulo en educación superior",
+        "institucion": "Universidad Gabriel Rene Moreno, Santa Cruz - Bolivia",
+        "tipo": "Educación Superior",
+        "periodo": {"inicio": "08/2018", "fin": "12/2018"}
+      },
+      {
+        "titulo": "Ingeniería Informatica",
+        "institucion": "Universidad Gabriel Rene Moreno, Santa Cruz - Bolivia",
+        "tipo": "Tesis",
+        "periodo": {"inicio": "2007", "fin": "2013"}
+      }
+    ]
+}

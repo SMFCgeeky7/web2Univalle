@@ -1,0 +1,157 @@
+{
+    "presentacion": {
+      "nombre": "Adan Condori",
+      "descripion": "Ingeniero informático con más de 8 años de experiencia.",
+      "imagen_perfil": "perfil_icon.jpeg",
+      "contacto": [
+        {
+          "plataforma": "GitHub",
+          "url": "https://github.com/adancondori",
+          "icono": "github_icon.png"
+        },
+        {
+          "plataforma": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adancondori/",
+          "icono": "linkedin_icon.png"
+        },
+        {
+          "plataforma": "Email",
+          "url": "mailto:adan.condoric@gmail.com",
+          "icono": "mail_icon.png"
+        }
+      ]
+    },
+
+    "proyectos": [
+      {
+        "titulo": "QRADM",
+        "descripcion": "Aplicación WEB y móvil para la gestión de la entrada de eventos a través de QR. Gestión para la entrega de objetos registrados por QR. Gestión de la puntuación a los grupos por QR. La infraestructura se utilizó como código con AWS yml está en el mismo repositorio, trabajando con SCRUM."
+      },
+      {
+        "titulo": "Entredely",
+        "descripcion": "Cree pedidos y asígnelos a sus conductores con su aplicación móvil, todo gratis. Los conductores ahora reciben sus pedidos para ser entregados a través de notificaciones push a su aplicación. El proyecto contiene Frontend, Backend, Mobile App."
+      },
+      {
+        "titulo": "Escuela Bíblica Virtual",
+        "descripcion": "En esta aplicación puede encontrar una variedad de cursos bíblicos, que abordan diferentes temas, como el matrimonio, las profecías y otros. Algunos de ellos incluso están elaborados para satisfacer las necesidades de los jóvenes, adolescentes o niños."
+      },
+      {
+        "titulo": "ConquisLike",
+        "descripcion": "Jovenes con gran pasión en el Club de Conquistadores La presente aplicación contiene un buen número de especialidades la cual podrás visualizar y compartir con tus amigos."
+      },
+      {
+        "titulo": "Joven@Joven",
+        "descripcion": "Estudio Online de Joven @ Joven “La Fe de Jesús”, ahora en tu teléfono. 18 Lecciones (ya incluyen los textos Bíblicos y campos de respuestas), esta es una iniciativa de la Iglesia Adventista del Séptimo Día, en la Misión del Oriente Boliviano. Proyecto para Android, Panel Administrativo."
+      },
+      {
+        "titulo": "BCS app",
+        "descripcion": "Proyecto desarrollado para BCS BROKERS CORPORATIVOS DE SEGUROS S.R.L. el cual beneficia al mercado de seguros con una aplicación que ayudará a nuestros clientes a comunicarnos en los momentos más críticos en todos los casos de siniestros. Proyecto para Android."
+      }
+    ],
+
+    "habilidades": {
+      "lenguajes_frameworks": [
+        {"nombre": "iOS Obj-C", "icono": "objc_icon.png", "nivel": "Avanzado"},
+        {"nombre": "iOS Swift", "icono": "swift_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Python/Anaconda", "icono": "anaconda_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Ruby/Ruby on Rails", "icono": "ruby_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Dart/Flutter", "icono": "flutter_logo.png", "nivel":"Avanzado"},
+        {"nombre": "Java Web/Android Studio", "icono": "androidstudio_logo.png", "nivel":"Avanzado"},
+        {"nombre": "Node JS", "icono": "nodejs_icon.png", "nivel":"Avanzado"},
+        {"nombre": "React Web/Native", "icono": "react_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Vue.js", "icono": "vue_icon.png", "nivel":"Avanzado"}
+      ],
+      "herramientas_servicios": [
+        {"nombre": "Heroku", "icono": "heroku_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Bitbucket", "icono": "bitbucket_icon.webp", "nivel": "Avanzado"},
+        {"nombre": "Github", "icono": "github_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Travis CI", "icono": "travisCI.png", "nivel": "Avanzado"},
+        {"nombre": "GitLab", "icono": "gitlab_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Team Foundation Server", "icono": "tfs_icon.jpg", "nivel":"Avanzado"},
+        {"nombre": "Jira", "icono": "jira_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Azure DevOps", "icono": "azure_icon.png", "nivel":"Avanzado"}
+      ],
+      "bases_datos": [
+        {"nombre": "MySQL", "icono": "mysql_logo.png", "nivel":"Avanzado"},
+        {"nombre": "SQLServer", "icono": "sqlserver_icon.png", "nivel":"Avanzado"},
+        {"nombre": "SQLite", "icono": "sqlite_logo.png", "nivel":"Avanzado"},
+        {"nombre": "PostgreSQL", "icono": "pstgresql_icon.png", "nivel":"Avanzado"}
+      ],
+      "plataformas_nube": [
+        {"nombre": "AWS", "icono": "aws_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Azure", "icono": "azure2_icon.webp", "nivel":"Avanzado"},
+        {"nombre": "DevOps", "icono": "devops_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Digital Ocean", "icono": "digitalocean_icon.png", "nivel":"Avanzado"},
+        {"nombre": "IBM", "icono": "ibm_icon.png", "nivel":"Avanzado"}
+      ]
+    },
+
+    "experiencia_laboral": [
+      {
+        "periodo": {"inicio": "2024/07", "fin": "presente"},
+        "cargo": "Ingeniero Full Stack",
+        "empresa": "PlayByPoint"
+      },
+      {
+        "periodo": {"inicio": "2023/01", "fin": "presente"},
+        "cargo": "Docente de Universidad",
+        "empresa": "Universidad del Valle (BO)"
+      },
+      {
+        "periodo": {"inicio": "2021/11", "fin": "2024/06"},
+        "cargo": "Jefe Tecnico (CTO)",
+        "empresa": "NETACTICA"
+      },
+      {
+        "periodo": {"inicio": "2017/12", "fin": "2021/10"},
+        "cargo": "Jefe de Desarrollo de Tecnologias",
+        "empresa": "Banco Fassil S.A., Bolivia"
+      },
+      {
+        "periodo": {"inicio": "2015/01", "fin": "presente"},
+        "cargo": "Desarrollador Freelance",
+        "empresa": "Dentro y fuera del pais"
+      },
+      {
+        "periodo": {"inicio": "2015/01", "fin": "2017/11"},
+        "cargo": "Ingeniero de Software",
+        "empresa": "Ticketed S.R.L., Bolivia"
+      },
+      {
+        "periodo": {"inicio": "2014/08", "fin": "2015/12"},
+        "cargo": "Ingeniero de Software",
+        "empresa": "V8 S.R.L., Bolivia"
+      },
+      {
+        "periodo": {"inicio": "2013/03", "fin": "2014/11"},
+        "cargo": "Ingeniero de Software",
+        "empresa": "Zoom, Bolivia"
+      },
+      {
+        "periodo": {"inicio": "2011/02", "fin": "2012/12"},
+        "cargo": "Asistente de laboratorio, Asistente de docente",
+        "empresa": "Universidad Gabriel Rene Moreno, Bolivia"
+      }
+    ],
+
+    "educacion": [
+      {
+        "titulo": "Master en manejo estratégico de ingeniería de software",
+        "institucion": "Universidad Gabriel Rene Moreno, Santa Cruz - Bolivia",
+        "tipo": "Educación Superior",
+        "periodo": {"inicio": "10/2020", "fin": "En proceso"}
+      },
+      {
+        "titulo": "Titulo en educación superior",
+        "institucion": "Universidad Gabriel Rene Moreno, Santa Cruz - Bolivia",
+        "tipo": "Educación Superior",
+        "periodo": {"inicio": "08/2018", "fin": "12/2018"}
+      },
+      {
+        "titulo": "Ingeniería Informatica",
+        "institucion": "Universidad Gabriel Rene Moreno, Santa Cruz - Bolivia",
+        "tipo": "Tesis",
+        "periodo": {"inicio": "2007", "fin": "2013"}
+      }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "presentacion": {
+      "nombre": "Adan Condori",
+      "descripion": "Ingeniero informático con más de 8 años de experiencia.",
+      "imagen_perfil": "perfil_icon.jpeg",
+      "contacto": [
+        {
+          "plataforma": "GitHub",
+          "url": "https://github.com/adancondori",
+          "icono": "github_icon.png"
+        },
+        {
+          "plataforma": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adancondori/",
+          "icono": "linkedin_icon.png"
+        },
+        {
+          "plataforma": "Email",
+          "url": "mailto:adan.condoric@gmail.com",
+          "icono": "mail_icon.png"
+        }
+      ]
+    }
+}

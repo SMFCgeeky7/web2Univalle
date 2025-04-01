@@ -1,0 +1,38 @@
+{
+    "habilidades": {
+      "lenguajes_frameworks": [
+        {"nombre": "iOS Obj-C", "icono": "objc_icon.png", "nivel": "Avanzado"},
+        {"nombre": "iOS Swift", "icono": "swift_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Python/Anaconda", "icono": "anaconda_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Ruby/Ruby on Rails", "icono": "ruby_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Dart/Flutter", "icono": "flutter_logo.png", "nivel":"Avanzado"},
+        {"nombre": "Java Web/Android Studio", "icono": "androidstudio_logo.png", "nivel":"Avanzado"},
+        {"nombre": "Node JS", "icono": "nodejs_icon.png", "nivel":"Avanzado"},
+        {"nombre": "React Web/Native", "icono": "react_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Vue.js", "icono": "vue_icon.png", "nivel":"Avanzado"}
+      ],
+      "herramientas_servicios": [
+        {"nombre": "Heroku", "icono": "heroku_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Bitbucket", "icono": "bitbucket_icon.webp", "nivel": "Avanzado"},
+        {"nombre": "Github", "icono": "github_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Travis CI", "icono": "travisCI.png", "nivel": "Avanzado"},
+        {"nombre": "GitLab", "icono": "gitlab_icon.png", "nivel": "Avanzado"},
+        {"nombre": "Team Foundation Server", "icono": "tfs_icon.jpg", "nivel":"Avanzado"},
+        {"nombre": "Jira", "icono": "jira_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Azure DevOps", "icono": "azure_icon.png", "nivel":"Avanzado"}
+      ],
+      "bases_datos": [
+        {"nombre": "MySQL", "icono": "mysql_logo.png", "nivel":"Avanzado"},
+        {"nombre": "SQLServer", "icono": "sqlserver_icon.png", "nivel":"Avanzado"},
+        {"nombre": "SQLite", "icono": "sqlite_logo.png", "nivel":"Avanzado"},
+        {"nombre": "PostgreSQL", "icono": "pstgresql_icon.png", "nivel":"Avanzado"}
+      ],
+      "plataformas_nube": [
+        {"nombre": "AWS", "icono": "aws_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Azure", "icono": "azure2_icon.webp", "nivel":"Avanzado"},
+        {"nombre": "DevOps", "icono": "devops_icon.png", "nivel":"Avanzado"},
+        {"nombre": "Digital Ocean", "icono": "digitalocean_icon.png", "nivel":"Avanzado"},
+        {"nombre": "IBM", "icono": "ibm_icon.png", "nivel":"Avanzado"}
+      ]
+    }
+}

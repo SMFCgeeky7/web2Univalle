@@ -1,0 +1,28 @@
+{
+    "proyectos": [
+        {
+          "titulo": "QRADM",
+          "descripcion": "Aplicación WEB y móvil para la gestión de la entrada de eventos a través de QR. Gestión para la entrega de objetos registrados por QR. Gestión de la puntuación a los grupos por QR. La infraestructura se utilizó como código con AWS yml está en el mismo repositorio, trabajando con SCRUM."
+        },
+        {
+          "titulo": "Entredely",
+          "descripcion": "Cree pedidos y asígnelos a sus conductores con su aplicación móvil, todo gratis. Los conductores ahora reciben sus pedidos para ser entregados a través de notificaciones push a su aplicación. El proyecto contiene Frontend, Backend, Mobile App."
+        },
+        {
+          "titulo": "Escuela Bíblica Virtual",
+          "descripcion": "En esta aplicación puede encontrar una variedad de cursos bíblicos, que abordan diferentes temas, como el matrimonio, las profecías y otros. Algunos de ellos incluso están elaborados para satisfacer las necesidades de los jóvenes, adolescentes o niños."
+        },
+        {
+          "titulo": "ConquisLike",
+          "descripcion": "Jovenes con gran pasión en el Club de Conquistadores La presente aplicación contiene un buen número de especialidades la cual podrás visualizar y compartir con tus amigos."
+        },
+        {
+          "titulo": "Joven@Joven",
+          "descripcion": "Estudio Online de Joven @ Joven “La Fe de Jesús”, ahora en tu teléfono. 18 Lecciones (ya incluyen los textos Bíblicos y campos de respuestas), esta es una iniciativa de la Iglesia Adventista del Séptimo Día, en la Misión del Oriente Boliviano. Proyecto para Android, Panel Administrativo."
+        },
+        {
+          "titulo": "BCS app",
+          "descripcion": "Proyecto desarrollado para BCS BROKERS CORPORATIVOS DE SEGUROS S.R.L. el cual beneficia al mercado de seguros con una aplicación que ayudará a nuestros clientes a comunicarnos en los momentos más críticos en todos los casos de siniestros. Proyecto para Android."
+        }
+      ]
+}
